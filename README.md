@@ -2,7 +2,7 @@
 - 🌱 I’m currently learning  a  desenvolver códigos em HTML, CSS e JavaScript.
 - 📫 Pode falar comigo pelo LinkedIn ---> https://www.linkedin.com/in/ana-carolina-vasconcelos-510739183/
 - Iniciei em 2021 uma Graduação de Análise e Desenvolvimento de Sistemas, espero trabalhar na área de tecnologia em breve.
-- Até mais!!!
+- Este é um Projeto da Kenzie, o primeiro de muitos!
 
 <!---
 caroldelira/caroldelira is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
